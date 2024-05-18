@@ -5,8 +5,6 @@
     font-Rigteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dennis+Adaku!;">
 </h1>
 
-#  👋 Hi, I'm Dennis Adaku!
-
 ![Profile Banner](url-to-your-banner-image)
 
 <h2 align="center">A passionate software engineer</h2>
@@ -25,17 +23,18 @@
 
 ## 🌱 What I'm Learning
 
-- **React(link-to-resources-if-applicable)**:
-I'm currently working on a React project to enhance my skills in frontend development and 
-showcase my backend expertise through a user-friendly interface. As a software engineer 
-specializing in backend development, I realized the importance of creating intuitive user 
-interfaces to make my code accessible to regular users.
+- **React(link-to-resources-if-applicable)**:  
 
-Through this project, I aim to demonstrate my ability to design and develop end-to-end 
-solutions that not only deliver powerful backend functionalities but also provide a smooth 
-and engaging user experience. Ultimately, I seek to build a portfolio piece that showcases 
-my proficiency in both backend and frontend development, highlighting my versatility 
-and dedication to delivering impactful software solutions.
+    I'm currently working on a React project to enhance my skills in frontend development and 
+    showcase my backend expertise through a user-friendly interface. As a software engineer 
+    specializing in backend development, I realized the importance of creating intuitive user 
+    interfaces to make my code accessible to regular users.
+
+    Through this project, I aim to demonstrate my ability to design and develop end-to-end 
+    solutions that not only deliver powerful backend functionalities but also provide a smooth 
+    and engaging user experience. Ultimately, I seek to build a portfolio piece that showcases 
+    my proficiency in both backend and frontend development, highlighting my versatility 
+    and dedication to delivering impactful software solutions.
 
 ## 💬 Ask Me About
 
@@ -53,37 +52,31 @@ or responsive design techniques, I'd love to share insights and discuss frontend
 
 ## 📫 How to Reach Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [LinkedIn](https://linkedin/in/dennisadaku)
+[![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColro=red)](mailto:ouvertn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/dennisadaku)
+
+## My Contributions
+
+<div align="center">
+    <img= alt="snake eating my contributions" src="https://raw.githubusercontent.com/KafuiAdaku/KafuiAdaku/output/github-contribution-grid-snake.svg">
+
+    <br><br><br>
+</div>
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KafuiAdaku&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KafuiAdaku&show_icons=true&theme=merko)
 
-## 🚀 My Projects
+## 🛠️ Languages, Frameworks & Tools
 
-### 🔹 [Project 1 Name](link-to-project)
-A detailed description of what this project is about, the technologies used, and the purpose it serves.
-
-### 🔹 [Project 2 Name](link-to-project)
-Another detailed description of a project, technologies used, and its goal.
-
-## 📝 Latest Blog Posts
-
-- **[Blog Post 1](link-to-blog-post)**: A brief description or excerpt from your blog post.
-- **[Blog Post 2](link-to-blog-post)**: Another brief description or excerpt.
-
-## 🛠️ Technologies & Tools
-
-- **Languages**: C, Python, JavaScript
-- **Frameworks**: Django, Flask, Node, React
-- **Tools**: [List of tools]
-- **Other Technologies**: [Any other relevant technologies]
-
-## 🌐 Open Source Contributions
-
-- **[Project Name](link-to-contribution)**: Description of your contribution.
-- **[Another Project](link-to-contribution)**: Description of your contribution.
+<div>
+    <div align=center>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,mysql,django,flask,c"><br>
+            <img src="https://skillicons.dev/icons?i=html,css,bootstrap,redis,react,git,r,matlab">
+        </a>
+    </div>
+</div>
 
 ## 💡 Fun Facts
 
@@ -92,12 +85,8 @@ Another detailed description of a project, technologies used, and its goal.
 
 ## 🎨 Highlighted Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KafuiAdaku&repo=repository-name&theme=radical)](https://github.com/KafuiAdaku/repository-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KafuiAdaku&repo=modern_blog_api&theme=radical)](https://github.com/KafuiAdaku/modern_blog_api)
 
-## 🌟 Featured Repositories
-
-- **[Repository 1](link-to-repo)**: A short description of what this repository contains.
-- **[Repository 2](link-to-repo)**: Another short description.
 
 ## 🤝 Let's Connect!
 
