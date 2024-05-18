@@ -53,12 +53,12 @@ or responsive design techniques, I'd love to share insights and discuss frontend
 ## 📫 How to Reach Me
 
 [![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColro=red)](mailto:ouvertn@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/dennisadaku)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dennisadaku)
 
 ## My Contributions
 
 <div align="center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KafuiAdaku/KafuiAdaku/output/github-contribution-grid-snake.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KafuiAdaku/KafuiAdaku.github.io/output/github-contribution-grid-snake.svg">
 
     <br><br><br>
 </div>
