@@ -2,10 +2,10 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?
-    font-Rigteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+:wave:;+I'm+Dennis+Adaku!;">
+    font-Rigteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dennis+Adaku!;">
 </h1>
 
-# 👋 Hi, I'm Dennis Adaku!
+#  👋 Hi, I'm Dennis Adaku!
 
 ![Profile Banner](url-to-your-banner-image)
 
