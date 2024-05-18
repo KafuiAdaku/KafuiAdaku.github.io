@@ -58,7 +58,7 @@ or responsive design techniques, I'd love to share insights and discuss frontend
 ## My Contributions
 
 <div align="center">
-    <img= alt="snake eating my contributions" src="https://raw.githubusercontent.com/KafuiAdaku/KafuiAdaku/output/github-contribution-grid-snake.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KafuiAdaku/KafuiAdaku/output/github-contribution-grid-snake.svg">
 
     <br><br><br>
 </div>
